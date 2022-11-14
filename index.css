@@ -94,12 +94,14 @@ input {
     width: 40%;
     padding: 2%;
     margin-left:5%;
+    opacity: 1.0;
 }
 textarea {
     height: 40%;
     width: 50%;
     padding: 5%;
     margin-top: 5%;
+    opacity: 1.0;
 }
 .icons{
     height: 40%;
@@ -109,6 +111,10 @@ textarea {
     color:black;
     line-height:2.0;
     text-align: center;
+}
+h4 {
+    font-weight:normal;
+    margin:0;
 }
 
 
