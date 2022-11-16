@@ -10,7 +10,7 @@ function offHover()
 
 function onHover2()
 {
-    $("#service-icon2").attr('src', './assets/services_icons/development.png');
+    $("#service-icon2").attr('src', './assets/services_icons/development2.png');
 }
 
 function offHover2()
@@ -20,7 +20,7 @@ function offHover2()
 
 function onHover3()
 {
-    $("#service-icon3").attr('src', './assets/services_icons/product_mgnt.png');
+    $("#service-icon3").attr('src', './assets/services_icons/product_mgnt2.png');
 }
 
 function offHover3()
