@@ -1,3 +1,6 @@
+html{
+    font-family: 'Livvic', sans-serif;
+}
 .container{
     display: flex; 
     flex-direction: column;
@@ -94,14 +97,18 @@ input {
     width: 40%;
     padding: 1%;
     margin-left:5%;
-    opacity: 1.0;
+    border: 1px solid white;
+    background-color: rgba(0,0,0,0.1);
+    color:white;
 }
 textarea {
     height: 40%;
     width: 50%;
     padding: 3%;
     margin-top: 5%;
-    opacity: 1.0;
+    border: 1px solid white;
+    background-color: rgba(0,0,0,0.1);
+    color:white;
 }
 .icons{
     height: 40%;
